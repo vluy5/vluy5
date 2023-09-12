@@ -14,10 +14,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/4c/ab/cb/4cabcb323ebc15df60907ccc711c061e.gif"  />
-
-###
-
 <div align="left">
   <a href="https://instagram.com/vluy5" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -29,7 +25,15 @@
 
 ###
 
-<img align="left" height="200" src="https://i.pinimg.com/originals/f9/16/69/f91669844da772dc0c00e9f627d2fd7e.gif"  />
+<br clear="both">
+
+<div align="center">
+  <img height="300" src="https://i.pinimg.com/564x/68/52/5b/68525b5e2634e8ee18dbb309cacae816.jpg"  />
+</div>
+
+###
+
+<img align="left" height="200" src="https://i.pinimg.com/originals/dd/5f/fb/dd5ffb159c72a36b9a51d0528e82b6f0.gif"  />
 
 ###
 
@@ -37,6 +41,6 @@
 
 ###
 
-<img align="left" height="200" src="https://i.pinimg.com/originals/2c/cd/70/2ccd70876413feafcc2e9d435ccd23e7.gif"  />
+<img align="left" height="200" src="https://i.pinimg.com/originals/f9/16/69/f91669844da772dc0c00e9f627d2fd7e.gif"  />
 
 ###
