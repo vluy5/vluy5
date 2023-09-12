@@ -37,18 +37,10 @@
 
 ###
 
-<img align="left" height="200" src="https://i.pinimg.com/originals/80/79/10/8079107ae2fb1fad5c0df0ef1ef6c56c.gif"  />
-
-###
-
 <img align="left" height="200" src="https://i.pinimg.com/originals/f9/16/69/f91669844da772dc0c00e9f627d2fd7e.gif"  />
 
 ###
 
-<div align="center">
-  <a href="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ljlcxrwgjgvmkw3lnyetx4gidy)">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=10&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+<img align="left" height="200" src="https://i.pinimg.com/originals/80/79/10/8079107ae2fb1fad5c0df0ef1ef6c56c.gif"  />
 
 ###
